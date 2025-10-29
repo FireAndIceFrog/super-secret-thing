@@ -56,7 +56,7 @@ function App() {
         sx={{
           width: '100vw',
           height: '100vh',
-          backgroundImage: 'url(/chris_proposing.heic)',
+          backgroundImage: 'url(/super-secret-thing/chris_proposing.heic)',
           backgroundSize: 'cover',
           backgroundPosition: 'center',
           backgroundRepeat: 'no-repeat',
